@@ -4,6 +4,6 @@
 
 Тестирование требований: https://docs.google.com/spreadsheets/d/19FwSxEd9Ad_Nv6ThIRX76um0dHqedTsdza4J9C9OF9c/edit?usp=sharing
 
-Тест-кейсы: https://docs.google.com/spreadsheets/d/1f7GpMLxOA11dYXc2iG4G366unyUbQqf74njIuIWy1h0/edit#gid=1581688054
+Тест-кейсы: 
 
-Багрепорты: https://docs.google.com/spreadsheets/d/1f7GpMLxOA11dYXc2iG4G366unyUbQqf74njIuIWy1h0/edit#gid=643879239
+Багрепорты: 
